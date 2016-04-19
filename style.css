@@ -1,7 +1,21 @@
 body {
-    background-color: aqua;
-}
+    background-image: url(16.gif);
 
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+
+}
+tr {
+    padding: 20px; 
+}
 
 h1 {
     color: brown;
